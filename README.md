@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bgourley1/Space%20Game%20-%20web/_apis/build/status/bgourley15.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/bgourley1/Space%20Game%20-%20web/_build/latest?definitionId=83&branchName=master)
 
 # Contributing
 
